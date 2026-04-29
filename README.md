@@ -1,48 +1,57 @@
 # 👋 Hi, I'm Han Ni Kyaw Zin
+### Junior Web Developer | HTML, CSS, JavaScript, PHP, Laravel & Bootstrap
 
-## 💻 About Me
+I am a Junior Web Developer focused on building functional, data-driven web applications. I specialize in backend development with PHP, Laravel, and MySQL, while also creating responsive user interfaces using HTML, CSS, JavaScript, and Bootstrap. I am currently seeking an internship where I can apply my skills to real-world projects and contribute to a development team.
 
-I'm a passionate developer from Myanmar, exploring web development. I enjoy building interactive and user-friendly applications.
-
-## 🚀 Projects
-
-### [Birthday](https://github.com/HanNiKyawZin/Birthday)
-
-A simple HTML webpage to celebrate birthdays.
-
-### [Weather-App](https://github.com/HanNiKyawZin/Weather-App)
-
-A real-time weather web app with city search, dark mode, and temperature unit toggle.
-
-### [Todo-App](https://github.com/HanNiKyawZin/Todo-App)
-
-An online to-do list app using Supabase. Users can add, edit, delete, and complete tasks.
-
-### [Forum Blog](https://github.com/HanNiKyawZin/forum_blog)
-
-A full-stack blog/forum application built with Laravel, Node.js, Docker, and Bootstrap.
+---
 
 ## 🛠️ Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+### **Development Stack**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-## 📈 GitHub Stats
+### **Database & Deployment**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-![HanNiKyawZin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanNiKyawZin\&show_icons=true\&hide_title=true)
+---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-hannikyawzin20@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannikyawzin20@gmail.com)
+### 💬 [Forum Blog - Laravel](https://github.com/HanNiKyawZin/forumblog)
+A full-stack discussion platform featuring secure authentication, Eloquent ORM database management, and a responsive Bootstrap UI. Built to demonstrate proficiency in PHP frameworks and backend logic.
 
+### ✅ [Persistent Todo App](https://github.com/HanNiKyawZin/Todo-App)
+A clean and efficient task management application focused on data persistence and a minimalist user interface.
 
+### 🎮 [Web Dev Typing Game](https://github.com/HanNiKyawZin/Typing-practice)
+An interactive application designed to improve typing speed while reinforcing web development concepts. Features real-time **WPM** and **Accuracy** tracking.
 
-## ⚡ Fun Fact
+### 🌤️ [Real-Time Weather App](https://github.com/HanNiKyawZin/Weather-App)
+A dynamic weather dashboard integrated with the **OpenWeatherMap API**. Features smart city search, auto-location detection, and dark mode.
 
-I love learning new technologies, building web apps, and contributing to open-source projects!
+---
+
+## 📈 GitHub Statistics
+
+![HanNiKyawZin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanNiKyawZin&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanNiKyawZin&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contact & Connect
+
+* **Email:** [hannikyawzin20@gmail.com](mailto:hannikyawzin20@gmail.com)
+* **LinkedIn:** [Han Ni Kyaw Zin](https://www.linkedin.com/in/han-ni-kyaw-zin/)
+* **Location:** Yangon, Myanmar
+
+---
+> "Always building. Always learning."
