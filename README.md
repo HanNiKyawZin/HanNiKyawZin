@@ -26,7 +26,7 @@ I am a Junior Web Developer focused on building functional, data-driven web appl
 
 ## 🚀 Featured Projects
 
-### 💬 [Forum Blog - Laravel](https://github.com/HanNiKyawZin/forumblog)
+### 💬 [Forum Blog - Laravel](https://github.com/HanNiKyawZin/forum_blog)
 A full-stack discussion platform featuring secure authentication, Eloquent ORM database management, and a responsive Bootstrap UI. Built to demonstrate proficiency in PHP frameworks and backend logic.
 
 ### ✅ [Persistent Todo App](https://github.com/HanNiKyawZin/Todo-App)
